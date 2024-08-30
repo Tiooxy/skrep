@@ -1,0 +1,31 @@
+{
+  "name": "skrep",
+  "version": "1.2.0",
+  "description": "The library scraper for WhatsApp bot or Restfull API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiooxy/scraper.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Tio",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Tiooxy/scraper/issues"
+  },
+  "homepage": "https://github.com/Tiooxy/scraper#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "file-type": "^16.0.0",
+    "form-data": "^4.0.0",
+    "formdata-node": "^6.0.3",
+    "fs-extra": "^10.0.0",
+    "qs": "^6.12.1"
+  }
+}
